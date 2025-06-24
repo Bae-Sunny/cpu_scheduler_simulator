@@ -3,7 +3,7 @@
 React + TypeScript + Vite 기반으로 구현된 **CPU 스케줄링 알고리즘 시뮬레이터**입니다.  
 다양한 알고리즘을 시각적으로 체험하고, Gantt 차트 및 실행 통계를 확인할 수 있습니다.
 
-👉 [🔗 StackBlitz에서 바로 실행하기](https://stackblitz.com/edit/vitejs-vite-twrqnvig?file=README.md)
+👉 [🔗 StackBlitz에서 바로 실행하기](https://stackblitz.com/edit/vitejs-vite-twrqnvig?ctl=1&embed=1&file=README.md&hideExplorer=1&hideNavigation=1&view=preview)
 
 ---
 
